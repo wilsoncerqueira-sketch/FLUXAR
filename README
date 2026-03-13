@@ -1,0 +1,43 @@
+⚡ FLUXAR — Finanças Inteligentes
+> Controle financeiro pessoal e empresarial em um só lugar, com separação clara entre pessoa física e jurídica.
+---
+📱 Como usar
+Abra o arquivo `index.html` no navegador — funciona direto, sem instalar nada.
+PIN de acesso (demo): `1234`
+---
+✨ Funcionalidades
+💼 Conta Pessoal e 🏢 Conta Empresarial separadas
+📥 Cadastro de receitas e despesas
+💳 Controle de cartões de crédito com barra de limite
+🔄 Transferência entre contas (PF ↔ PJ)
+📊 Relatórios com gráficos de área, barras e pizza
+🎯 Metas financeiras com barra de progresso
+⚠️ Alertas de pendências e vencimentos
+🔐 Tela de login com PIN numérico
+📱 Interface mobile-first com tab bar inferior
+---
+🛠️ Tecnologias
+React 18 (via CDN)
+Recharts (gráficos)
+JavaScript puro — sem build, sem instalação
+---
+🚀 Publicação
+Este projeto está hospedado gratuitamente no Vercel.
+Para atualizar o site, basta substituir o `index.html` no repositório GitHub — o Vercel publica automaticamente em segundos.
+---
+📁 Estrutura
+```
+fluxar/
+├── index.html   ← App completo em um único arquivo
+└── README.md    ← Este arquivo
+```
+---
+🔮 Próximas funcionalidades
+[ ] Integração com bancos
+[ ] Exportação em PDF e Excel
+[ ] Calendário financeiro
+[ ] Controle de impostos
+[ ] Simulador de crescimento financeiro
+[ ] Sistema de metas com gamificação
+---
+Desenvolvido com ⚡ e muito café.
